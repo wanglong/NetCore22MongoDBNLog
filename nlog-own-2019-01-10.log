@@ -1,0 +1,211 @@
+日志记录时间：2019-01-10 18:22:41.9595
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+url: 
+action: 
+==============================================================
+
+日志记录时间：2019-01-10 18:25:09.6419
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+url: 
+action: 
+==============================================================
+
+日志记录时间：2019-01-10 18:28:34.4693
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+url: 
+action: 
+==============================================================
+
+日志记录时间：2019-01-10 18:42:37.6096
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+url: 
+action: 
+==============================================================
+
+日志记录时间：2019-01-10 18:42:43.0033
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:42:43 Get  value1 and value2.
+错误信息：
+url: http://localhost/api/values
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:42:51.0256
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:42:51 Get  value1 and value2.
+错误信息：
+url: http://localhost/api/values
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:43:26.3433
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:43:26Get value.
+错误信息：
+url: http://localhost/api/values/5
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:50:35.9323
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+url: 
+action: 
+==============================================================
+
+日志记录时间：2019-01-10 18:50:40.8745
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:50:40 Get  value1 and value2.
+错误信息：
+url: http://localhost/api/values
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:51:04.7025
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+url: 
+action: 
+==============================================================
+
+日志记录时间：2019-01-10 18:51:10.0993
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:51:10 Get  value1 and value2.
+错误信息：
+url: http://localhost/api/values
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:52:13.5726
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:52:13 Get  value1 and value2.
+错误信息：
+url: http://localhost/api/values
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:52:52.1886
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:52:52Get value.
+错误信息：
+url: http://localhost/api/values/67
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:52:52.3171
+日志级别：ERROR
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：error !
+错误信息：System.ArgumentNullException: Value cannot be null.
+Parameter name: null error test
+url: http://localhost/api/values/67
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:54:25.1264
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+url: 
+action: 
+==============================================================
+
+日志记录时间：2019-01-10 18:54:33.8984
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:54:33 Get  value1 and value2.
+错误信息：
+url: http://localhost/api/values
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:55:30.6400
+日志级别：ERROR
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：error !
+错误信息：System.ArgumentNullException: Value cannot be null.
+Parameter name: null error test
+url: http://localhost/api/values/3
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:55:39.6615
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:55:39 Get  value1 and value2.
+错误信息：
+url: http://localhost/api/values
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:55:44.4325
+日志级别：ERROR
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：error !
+错误信息：System.ArgumentNullException: Value cannot be null.
+Parameter name: null error test
+url: http://localhost/api/values/9
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:57:00.2910
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+url: 
+action: 
+==============================================================
+
+日志记录时间：2019-01-10 18:57:04.2646
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:57:04 Get  value1 and value2.
+错误信息：
+url: http://localhost/api/values
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:57:13.8288
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:57:13Get value.
+错误信息：
+url: http://localhost/api/values/9
+action: Get
+==============================================================
+
+日志记录时间：2019-01-10 18:57:13.9076
+日志级别：ERROR
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：error !
+错误信息：System.ArgumentNullException: Value cannot be null.
+Parameter name: null error test
+url: http://localhost/api/values/9
+action: Get
+==============================================================
+

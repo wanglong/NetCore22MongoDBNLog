@@ -1,0 +1,1425 @@
+日志记录时间：2019-01-10 18:22:41.9595
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:25:09.6419
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:25:27.2601
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager
+日志信息：User profile is available. Using 'C:\Users\Hacker\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:25:44.1812
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:25:45.0416
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:25:45.6152
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:25:45.7161
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:25:45.7534
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.8408ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:25:45.8753
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String[]'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:25:47.4073
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 1771.5743ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:25:47.4523
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:25:47.5384
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 3358.1535ms 200 application/json; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:34.4693
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:36.7307
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager
+日志信息：User profile is available. Using 'C:\Users\Hacker\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:38.5618
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:38.6725
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:38.7282
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:38.7619
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:38.7818
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.4778ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:38.8111
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String[]'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:38.9035
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 152.2386ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:38.9210
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:38.9434
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 382.7848ms 200 application/json; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:47.1138
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values/1  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:47.2881
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:47.7360
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:48.2173
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) with arguments (1) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:48.4253
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 5.0637ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:48.5626
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:48.6292
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 768.2874ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:48.6906
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:48.7445
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 1630.7ms 200 text/plain; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:49.7540
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:49.9450
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 191.1614ms 404 
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:55.4549
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:55.4976
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:55.5397
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:55.5926
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:55.6568
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.7214ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:55.6995
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String[]'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:55.7404
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 148.0383ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:55.7907
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:28:55.8259
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 371.1679ms 200 application/json; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:14.6031
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values/1  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:14.6386
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:14.6655
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:14.6883
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) with arguments (1) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:14.7054
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.2052ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:14.7211
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:14.7365
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 52.3945ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:14.7517
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:14.7517
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 161.6603ms 200 text/plain; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:31.8430
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:31.8821
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:31.9161
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:31.9490
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:31.9827
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.0361ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:32.0433
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String[]'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:32.1209
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 171.9609ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:32.2044
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:35:32.2674
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 424.6989ms 200 application/json; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:37.6096
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:39.7499
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager
+日志信息：User profile is available. Using 'C:\Users\Hacker\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:42.4257
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:42.5349
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:42.5836
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:42.9824
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:43.0033
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:42:43 Get  value1 and value2.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:43.0570
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 48.7189ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:43.0857
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String[]'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:43.1871
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 567.2752ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:43.2034
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:43.2364
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 811.2628ms 200 application/json; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:49.6266
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:49.8013
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:49.9385
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:50.9630
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:51.0256
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:42:51 Get  value1 and value2.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:51.2003
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 174.6381ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:51.2680
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String[]'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:51.3274
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 1264.9094ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:51.4361
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:42:51.5236
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 1891.8324ms 200 application/json; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:43:24.8628
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values/5  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:43:24.9699
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:43:25.3268
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:43:26.2912
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) with arguments (5) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:43:26.3433
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:43:26Get value.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:43:26.4571
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 114.9974ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:43:26.5505
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:43:26.6371
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 1244.8406ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:43:26.6860
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:43:26.7273
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 1864.5646ms 200 text/plain; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:50:35.9323
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:50:38.4212
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager
+日志信息：User profile is available. Using 'C:\Users\Hacker\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:50:40.2283
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:50:40.3837
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:50:40.4655
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:50:40.8570
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:50:40.8745
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:50:40 Get  value1 and value2.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:50:40.9214
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 42.0742ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:50:40.9582
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String[]'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:50:41.1082
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 600.3281ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:50:41.1344
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:50:41.1651
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 943.1891ms 200 application/json; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:51:04.7025
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:51:06.7271
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager
+日志信息：User profile is available. Using 'C:\Users\Hacker\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:51:09.6594
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:51:09.7906
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:51:09.8494
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:51:10.0858
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:51:10.0993
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:51:10 Get  value1 and value2.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:51:10.1471
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 41.2403ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:51:10.1817
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String[]'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:51:10.2757
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 407.7112ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:51:10.2903
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:51:10.3138
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 654.9474ms 200 application/json; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:12.3247
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:12.3635
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:12.3902
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:13.5504
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:13.5726
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:52:13 Get  value1 and value2.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:13.6119
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 39.2956ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:13.6398
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String[]'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:13.6748
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 1254.4162ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:13.7177
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:13.7618
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 1437.0978ms 200 application/json; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:50.1092
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values/67  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:50.4110
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:50.6891
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:52.0963
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) with arguments (67) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:52.1886
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:52:52Get value.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:52.3171
+日志级别：ERROR
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：error !
+错误信息：System.ArgumentNullException: Value cannot be null.
+Parameter name: null error test
+==============================================================
+
+日志记录时间：2019-01-10 18:52:52.6395
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 452.2466ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:52.6746
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:52.7170
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 1945.1039ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:52.7562
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:52:52.7797
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 2671.2289ms 200 text/plain; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:54:25.1264
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:54:26.9562
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager
+日志信息：User profile is available. Using 'C:\Users\Hacker\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:54:33.3801
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:54:33.4911
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:54:33.5393
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:54:33.8812
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:54:33.8984
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:54:33 Get  value1 and value2.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:54:33.9435
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 40.2612ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:54:33.9750
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String[]'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:54:34.0756
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 515.0966ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:54:34.1184
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:54:34.1423
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 764.3778ms 200 application/json; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:29.8833
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values/3  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:29.9319
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:30.1250
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:30.6202
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) with arguments (3) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:30.6400
+日志级别：ERROR
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：error !
+错误信息：System.ArgumentNullException: Value cannot be null.
+Parameter name: null error test
+==============================================================
+
+日志记录时间：2019-01-10 18:55:30.7253
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 87.4307ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:30.7436
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:30.7637
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 592.3466ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:30.7842
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:30.8011
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 918.1773ms 200 text/plain; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:39.0742
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:39.1590
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:39.2001
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:39.6239
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:39.6615
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:55:39 Get  value1 and value2.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:39.7335
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 71.9982ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:39.7627
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String[]'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:39.7907
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 545.8635ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:39.8372
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:39.8895
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 815.6606ms 200 application/json; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:43.9810
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values/9  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:44.0624
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:44.1422
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:44.4021
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) with arguments (9) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:44.4325
+日志级别：ERROR
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：error !
+错误信息：System.ArgumentNullException: Value cannot be null.
+Parameter name: null error test
+==============================================================
+
+日志记录时间：2019-01-10 18:55:44.5166
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 84.0892ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:44.5415
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:44.5692
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 400.4203ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:44.5953
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:55:44.6217
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 640.7153ms 200 text/plain; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:00.2910
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Program
+日志信息：Init Log API Information
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:02.3310
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager
+日志信息：User profile is available. Using 'C:\Users\Hacker\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:03.6647
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:03.8570
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:03.9410
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:04.2432
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:04.2646
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:57:04 Get  value1 and value2.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:04.3219
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 49.5609ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:04.3519
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String[]'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:04.4523
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 495.5159ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:04.4667
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:04.4895
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 823.0246ms 200 application/json; charset=utf-8
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:12.8741
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request starting HTTP/1.1 GET http://localhost:5000/api/values/9  
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:12.9323
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executing endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:13.1406
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Route matched with {action = "Get", controller = "Values"}. Executing action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:13.7835
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executing action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) with arguments (9) - Validation state: Valid
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:13.8288
+日志级别：INFO
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：2019-1-10 18:57:13Get value.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:13.9076
+日志级别：ERROR
+日志来源：WebAppGrapefruit.WebApi.Controllers.ValuesController
+日志信息：error !
+错误信息：System.ArgumentNullException: Value cannot be null.
+Parameter name: null error test
+==============================================================
+
+日志记录时间：2019-01-10 18:57:14.1732
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action method WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 345.2767ms.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:14.2039
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor
+日志信息：Executing ObjectResult, writing value of type 'System.String'.
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:14.2397
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker
+日志信息：Executed action WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi) in 988.5838ms
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:14.2673
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Routing.EndpointMiddleware
+日志信息：Executed endpoint 'WebAppGrapefruit.WebApi.Controllers.ValuesController.Get (WebAppGrapefruit.WebApi)'
+错误信息：
+==============================================================
+
+日志记录时间：2019-01-10 18:57:14.3042
+日志级别：INFO
+日志来源：Microsoft.AspNetCore.Hosting.Internal.WebHost
+日志信息：Request finished in 1430.8591ms 200 text/plain; charset=utf-8
+错误信息：
+==============================================================
+

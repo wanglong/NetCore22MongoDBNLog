@@ -1,0 +1,358 @@
+2019-01-10 18:22:36.0287 Info Message Template Auto Format enabled
+2019-01-10 18:22:36.0483 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:22:36.0483 Info Loading assembly: NLog.Mongo
+2019-01-10 18:22:38.7133 Info Adding target File Target[allfile]
+2019-01-10 18:22:39.0281 Info Adding target File Target[ownFile-web]
+2019-01-10 18:22:41.6520 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:22:41.6654 Info Adding target Mongo Target[mongo]
+2019-01-10 18:22:41.6961 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:22:41.7571 Info Found 71 configuration items
+2019-01-10 18:22:42.4728 Info Creating MongoDB collection Logs in database GrapefruitVuCore
+2019-01-10 18:22:45.4949 Info Shutting down logging...
+2019-01-10 18:22:47.0227 Warn Target flush timeout. One or more targets did not complete flush operation, skipping target close.
+2019-01-10 18:22:47.0227 Info Logger has been shut down.
+2019-01-10 18:25:07.8753 Info Message Template Auto Format enabled
+2019-01-10 18:25:07.9555 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:25:08.0019 Info Loading assembly: NLog.Mongo
+2019-01-10 18:25:08.5670 Info Adding target File Target[allfile]
+2019-01-10 18:25:08.7271 Info Adding target File Target[ownFile-web]
+2019-01-10 18:25:09.3250 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:25:09.3366 Info Adding target Mongo Target[mongo]
+2019-01-10 18:25:09.3626 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:25:09.4136 Info Found 71 configuration items
+2019-01-10 18:25:10.1238 Info Creating MongoDB collection Logs in database GrapefruitVuCore
+2019-01-10 18:28:33.9272 Info Message Template Auto Format enabled
+2019-01-10 18:28:33.9674 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:28:33.9861 Info Loading assembly: NLog.Mongo
+2019-01-10 18:28:34.1381 Info Adding target File Target[allfile]
+2019-01-10 18:28:34.1601 Info Adding target File Target[ownFile-web]
+2019-01-10 18:28:34.2582 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:28:34.2699 Info Adding target Mongo Target[mongo]
+2019-01-10 18:28:34.2988 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:28:34.3570 Info Found 71 configuration items
+2019-01-10 18:28:34.7209 Info Creating MongoDB collection Logs in database GrapefruitVuCore
+2019-01-10 18:39:41.0467 Info Logger closing down...
+2019-01-10 18:39:41.0597 Info Closing old configuration.
+2019-01-10 18:39:41.1260 Info Logger has been closed down.
+2019-01-10 18:39:41.1260 Info Shutting down logging...
+2019-01-10 18:39:41.1519 Info Logger has been shut down.
+2019-01-10 18:42:36.9919 Info Message Template Auto Format enabled
+2019-01-10 18:42:37.0425 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:42:37.0605 Info Loading assembly: NLog.Mongo
+2019-01-10 18:42:37.2387 Info Adding target File Target[allfile]
+2019-01-10 18:42:37.2558 Info Adding target File Target[ownFile-web]
+2019-01-10 18:42:37.4197 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:42:37.4378 Info Adding target Mongo Target[mongo]
+2019-01-10 18:42:37.4815 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:42:37.5320 Info Found 71 configuration items
+2019-01-10 18:42:37.7869 Info Creating MongoDB collection Logs in database GrapefruitVuCore
+2019-01-10 18:42:42.6241 Info Message Template Auto Format enabled
+2019-01-10 18:42:42.6398 Info Found 71 configuration items
+2019-01-10 18:42:42.6558 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:42:42.6716 Info Loading assembly: NLog.Mongo
+2019-01-10 18:42:42.6854 Info Adding target File Target[allfile]
+2019-01-10 18:42:42.7012 Info Adding target File Target[ownFile-web]
+2019-01-10 18:42:42.7452 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:42:42.7594 Info Adding target Mongo Target[mongo]
+2019-01-10 18:42:42.7726 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:42:42.7895 Info Closing old configuration.
+2019-01-10 18:42:42.8526 Info Found 71 configuration items
+2019-01-10 18:42:50.0789 Info Message Template Auto Format enabled
+2019-01-10 18:42:50.2023 Info Found 71 configuration items
+2019-01-10 18:42:50.3166 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:42:50.4543 Info Loading assembly: NLog.Mongo
+2019-01-10 18:42:50.5432 Info Adding target File Target[allfile]
+2019-01-10 18:42:50.6262 Info Adding target File Target[ownFile-web]
+2019-01-10 18:42:50.7115 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:42:50.7488 Info Adding target Mongo Target[mongo]
+2019-01-10 18:42:50.7937 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:42:50.8568 Info Closing old configuration.
+2019-01-10 18:42:50.9054 Info Found 71 configuration items
+2019-01-10 18:43:25.4046 Info Message Template Auto Format enabled
+2019-01-10 18:43:25.4724 Info Found 71 configuration items
+2019-01-10 18:43:25.5509 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:43:25.6244 Info Loading assembly: NLog.Mongo
+2019-01-10 18:43:25.7002 Info Adding target File Target[allfile]
+2019-01-10 18:43:25.7677 Info Adding target File Target[ownFile-web]
+2019-01-10 18:43:25.8618 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:43:25.9157 Info Adding target Mongo Target[mongo]
+2019-01-10 18:43:25.9502 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:43:26.0118 Info Closing old configuration.
+2019-01-10 18:43:26.1068 Info Found 71 configuration items
+2019-01-10 18:44:16.5262 Info Logger closing down...
+2019-01-10 18:44:16.5374 Info Closing old configuration.
+2019-01-10 18:44:16.5374 Info Logger has been closed down.
+2019-01-10 18:44:16.5577 Info Shutting down logging...
+2019-01-10 18:44:16.5685 Info Logger has been shut down.
+2019-01-10 18:50:35.4252 Info Message Template Auto Format enabled
+2019-01-10 18:50:35.4548 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:50:35.4548 Info Loading assembly: NLog.Mongo
+2019-01-10 18:50:35.6189 Info Adding target File Target[allfile]
+2019-01-10 18:50:35.6357 Info Adding target File Target[ownFile-web]
+2019-01-10 18:50:35.7265 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:50:35.7420 Info Adding target Mongo Target[mongo]
+2019-01-10 18:50:35.7717 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:50:35.8250 Info Found 71 configuration items
+2019-01-10 18:50:36.2105 Info Creating MongoDB collection Logs in database GrapefruitVuCore
+2019-01-10 18:50:40.5272 Info Message Template Auto Format enabled
+2019-01-10 18:50:40.5435 Info Found 71 configuration items
+2019-01-10 18:50:40.5640 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:50:40.5913 Info Loading assembly: NLog.Mongo
+2019-01-10 18:50:40.6184 Info Adding target File Target[allfile]
+2019-01-10 18:50:40.6346 Info Adding target File Target[ownFile-web]
+2019-01-10 18:50:40.6506 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:50:40.6714 Info Adding target Mongo Target[mongo]
+2019-01-10 18:50:40.6936 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:50:40.7132 Info Closing old configuration.
+2019-01-10 18:50:40.8190 Info Found 71 configuration items
+2019-01-10 18:50:53.8462 Info Logger closing down...
+2019-01-10 18:50:53.8462 Info Closing old configuration.
+2019-01-10 18:50:53.8721 Info Logger has been closed down.
+2019-01-10 18:50:53.8816 Info Shutting down logging...
+2019-01-10 18:50:53.8949 Info Logger has been shut down.
+2019-01-10 18:51:04.2102 Info Message Template Auto Format enabled
+2019-01-10 18:51:04.2439 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:51:04.2575 Info Loading assembly: NLog.Mongo
+2019-01-10 18:51:04.3885 Info Adding target File Target[allfile]
+2019-01-10 18:51:04.4076 Info Adding target File Target[ownFile-web]
+2019-01-10 18:51:04.5050 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:51:04.5180 Info Adding target Mongo Target[mongo]
+2019-01-10 18:51:04.5444 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:51:04.5989 Info Found 71 configuration items
+2019-01-10 18:51:04.9121 Info Creating MongoDB collection Logs in database GrapefruitVuCore
+2019-01-10 18:51:09.8753 Info Message Template Auto Format enabled
+2019-01-10 18:51:09.8877 Info Found 71 configuration items
+2019-01-10 18:51:09.9038 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:51:09.9184 Info Loading assembly: NLog.Mongo
+2019-01-10 18:51:09.9273 Info Adding target File Target[allfile]
+2019-01-10 18:51:09.9425 Info Adding target File Target[ownFile-web]
+2019-01-10 18:51:09.9541 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:51:09.9541 Info Adding target Mongo Target[mongo]
+2019-01-10 18:51:09.9804 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:51:09.9955 Info Closing old configuration.
+2019-01-10 18:51:10.0610 Info Found 71 configuration items
+2019-01-10 18:52:12.4235 Info Message Template Auto Format enabled
+2019-01-10 18:52:12.4519 Info Found 71 configuration items
+2019-01-10 18:52:12.4796 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:52:12.7918 Info Loading assembly: NLog.Mongo
+2019-01-10 18:52:13.3805 Info Adding target File Target[allfile]
+2019-01-10 18:52:13.4069 Info Adding target File Target[ownFile-web]
+2019-01-10 18:52:13.4479 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:52:13.4747 Info Adding target Mongo Target[mongo]
+2019-01-10 18:52:13.4958 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:52:13.5135 Info Closing old configuration.
+2019-01-10 18:52:13.5303 Info Found 71 configuration items
+2019-01-10 18:52:50.7996 Info Message Template Auto Format enabled
+2019-01-10 18:52:50.8727 Info Found 71 configuration items
+2019-01-10 18:52:50.9288 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:52:51.0222 Info Loading assembly: NLog.Mongo
+2019-01-10 18:52:51.1654 Info Adding target File Target[allfile]
+2019-01-10 18:52:51.2319 Info Adding target File Target[ownFile-web]
+2019-01-10 18:52:51.3324 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:52:51.4849 Info Adding target Mongo Target[mongo]
+2019-01-10 18:52:51.5887 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:52:51.6756 Info Closing old configuration.
+2019-01-10 18:52:51.7676 Info Found 71 configuration items
+2019-01-10 18:52:52.5291 Error Error when writing to MongoDB System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at MongoDB.Bson.BsonString..ctor(String value)
+   at NLog.Mongo.MongoTarget.CreateException(Exception exception)
+   at NLog.Mongo.MongoTarget.AddDefaults(BsonDocument document, LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.CreateDocument(LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.Write(LogEventInfo logEvent)
+2019-01-10 18:52:52.6102 Error Error has been raised. Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at MongoDB.Bson.BsonString..ctor(String value)
+   at NLog.Mongo.MongoTarget.CreateException(Exception exception)
+   at NLog.Mongo.MongoTarget.AddDefaults(BsonDocument document, LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.CreateDocument(LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.Write(LogEventInfo logEvent)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2019-01-10 18:54:13.9804 Info Logger closing down...
+2019-01-10 18:54:13.9990 Info Closing old configuration.
+2019-01-10 18:54:14.0310 Info Logger has been closed down.
+2019-01-10 18:54:14.0491 Info Shutting down logging...
+2019-01-10 18:54:14.0645 Info Logger has been shut down.
+2019-01-10 18:54:24.6859 Info Message Template Auto Format enabled
+2019-01-10 18:54:24.7122 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:54:24.7217 Info Loading assembly: NLog.Mongo
+2019-01-10 18:54:24.8501 Info Adding target File Target[allfile]
+2019-01-10 18:54:24.8762 Info Adding target File Target[ownFile-web]
+2019-01-10 18:54:24.9558 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:54:24.9558 Info Adding target Mongo Target[mongo]
+2019-01-10 18:54:24.9908 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:54:25.0459 Info Found 71 configuration items
+2019-01-10 18:54:25.3373 Info Creating MongoDB collection Logs in database GrapefruitVuCore
+2019-01-10 18:54:33.5655 Info Message Template Auto Format enabled
+2019-01-10 18:54:33.5802 Info Found 71 configuration items
+2019-01-10 18:54:33.5983 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:54:33.6121 Info Loading assembly: NLog.Mongo
+2019-01-10 18:54:33.6571 Info Adding target File Target[allfile]
+2019-01-10 18:54:33.7118 Info Adding target File Target[ownFile-web]
+2019-01-10 18:54:33.7321 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:54:33.7469 Info Adding target Mongo Target[mongo]
+2019-01-10 18:54:33.7634 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:54:33.7814 Info Closing old configuration.
+2019-01-10 18:54:33.8367 Info Found 71 configuration items
+2019-01-10 18:55:30.1756 Info Message Template Auto Format enabled
+2019-01-10 18:55:30.2411 Info Found 71 configuration items
+2019-01-10 18:55:30.2708 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:55:30.2991 Info Loading assembly: NLog.Mongo
+2019-01-10 18:55:30.3333 Info Adding target File Target[allfile]
+2019-01-10 18:55:30.3652 Info Adding target File Target[ownFile-web]
+2019-01-10 18:55:30.4065 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:55:30.4459 Info Adding target Mongo Target[mongo]
+2019-01-10 18:55:30.4869 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:55:30.5161 Info Closing old configuration.
+2019-01-10 18:55:30.5409 Info Found 71 configuration items
+2019-01-10 18:55:30.6902 Error Error when writing to MongoDB System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at MongoDB.Bson.BsonString..ctor(String value)
+   at NLog.Mongo.MongoTarget.CreateException(Exception exception)
+   at NLog.Mongo.MongoTarget.AddDefaults(BsonDocument document, LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.CreateDocument(LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.Write(LogEventInfo logEvent)
+2019-01-10 18:55:30.7045 Error Error has been raised. Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at MongoDB.Bson.BsonString..ctor(String value)
+   at NLog.Mongo.MongoTarget.CreateException(Exception exception)
+   at NLog.Mongo.MongoTarget.AddDefaults(BsonDocument document, LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.CreateDocument(LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.Write(LogEventInfo logEvent)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2019-01-10 18:55:39.2493 Info Message Template Auto Format enabled
+2019-01-10 18:55:39.2904 Info Found 71 configuration items
+2019-01-10 18:55:39.3315 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:55:39.3574 Info Loading assembly: NLog.Mongo
+2019-01-10 18:55:39.4265 Info Adding target File Target[allfile]
+2019-01-10 18:55:39.4459 Info Adding target File Target[ownFile-web]
+2019-01-10 18:55:39.4799 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:55:39.5021 Info Adding target Mongo Target[mongo]
+2019-01-10 18:55:39.5524 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:55:39.5765 Info Closing old configuration.
+2019-01-10 18:55:39.5989 Info Found 71 configuration items
+2019-01-10 18:55:44.1711 Info Message Template Auto Format enabled
+2019-01-10 18:55:44.1951 Info Found 71 configuration items
+2019-01-10 18:55:44.2083 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:55:44.2318 Info Loading assembly: NLog.Mongo
+2019-01-10 18:55:44.2513 Info Adding target File Target[allfile]
+2019-01-10 18:55:44.2688 Info Adding target File Target[ownFile-web]
+2019-01-10 18:55:44.2911 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:55:44.3113 Info Adding target Mongo Target[mongo]
+2019-01-10 18:55:44.3291 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:55:44.3519 Info Closing old configuration.
+2019-01-10 18:55:44.3752 Info Found 71 configuration items
+2019-01-10 18:55:44.4810 Error Error when writing to MongoDB System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at MongoDB.Bson.BsonString..ctor(String value)
+   at NLog.Mongo.MongoTarget.CreateException(Exception exception)
+   at NLog.Mongo.MongoTarget.AddDefaults(BsonDocument document, LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.CreateDocument(LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.Write(LogEventInfo logEvent)
+2019-01-10 18:55:44.4966 Error Error has been raised. Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at MongoDB.Bson.BsonString..ctor(String value)
+   at NLog.Mongo.MongoTarget.CreateException(Exception exception)
+   at NLog.Mongo.MongoTarget.AddDefaults(BsonDocument document, LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.CreateDocument(LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.Write(LogEventInfo logEvent)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2019-01-10 18:56:07.5499 Info Logger closing down...
+2019-01-10 18:56:07.5873 Info Closing old configuration.
+2019-01-10 18:56:07.6179 Info Logger has been closed down.
+2019-01-10 18:56:07.6716 Info Shutting down logging...
+2019-01-10 18:56:07.7008 Info Logger has been shut down.
+2019-01-10 18:56:59.6972 Info Message Template Auto Format enabled
+2019-01-10 18:56:59.7542 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:56:59.7747 Info Loading assembly: NLog.Mongo
+2019-01-10 18:56:59.9701 Info Adding target File Target[allfile]
+2019-01-10 18:56:59.9954 Info Adding target File Target[ownFile-web]
+2019-01-10 18:57:00.1434 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:57:00.1434 Info Adding target Mongo Target[mongo]
+2019-01-10 18:57:00.1696 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:57:00.2074 Info Found 71 configuration items
+2019-01-10 18:57:00.4470 Info Creating MongoDB collection Logs in database GrapefruitVuCore
+2019-01-10 18:57:03.9624 Info Message Template Auto Format enabled
+2019-01-10 18:57:03.9705 Info Found 71 configuration items
+2019-01-10 18:57:03.9705 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:57:03.9951 Info Loading assembly: NLog.Mongo
+2019-01-10 18:57:04.0084 Info Adding target File Target[allfile]
+2019-01-10 18:57:04.0225 Info Adding target File Target[ownFile-web]
+2019-01-10 18:57:04.0380 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:57:04.0380 Info Adding target Mongo Target[mongo]
+2019-01-10 18:57:04.0569 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:57:04.0691 Info Closing old configuration.
+2019-01-10 18:57:04.1878 Info Found 71 configuration items
+2019-01-10 18:57:13.2626 Info Message Template Auto Format enabled
+2019-01-10 18:57:13.3149 Info Found 71 configuration items
+2019-01-10 18:57:13.3697 Info Loading assembly: NLog.Web.AspNetCore
+2019-01-10 18:57:13.4014 Info Loading assembly: NLog.Mongo
+2019-01-10 18:57:13.4380 Info Adding target File Target[allfile]
+2019-01-10 18:57:13.4801 Info Adding target File Target[ownFile-web]
+2019-01-10 18:57:13.5168 Error Error parsing layout windows-identity will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'windows-identity'
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name)
+2019-01-10 18:57:13.5486 Info Adding target Mongo Target[mongo]
+2019-01-10 18:57:13.5733 Info Configured from an XML element in D:\AspNetCoreTest\WebAppGrapefruit.WebApi\WebAppGrapefruit.WebApi\bin\Debug\netcoreapp2.2\nlog.config...
+2019-01-10 18:57:13.6051 Info Closing old configuration.
+2019-01-10 18:57:13.6273 Info Found 71 configuration items
+2019-01-10 18:57:14.0797 Error Error when writing to MongoDB System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at MongoDB.Bson.BsonString..ctor(String value)
+   at NLog.Mongo.MongoTarget.CreateException(Exception exception)
+   at NLog.Mongo.MongoTarget.AddDefaults(BsonDocument document, LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.CreateDocument(LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.Write(LogEventInfo logEvent)
+2019-01-10 18:57:14.1536 Error Error has been raised. Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at MongoDB.Bson.BsonString..ctor(String value)
+   at NLog.Mongo.MongoTarget.CreateException(Exception exception)
+   at NLog.Mongo.MongoTarget.AddDefaults(BsonDocument document, LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.CreateDocument(LogEventInfo logEvent)
+   at NLog.Mongo.MongoTarget.Write(LogEventInfo logEvent)
+   at NLog.Targets.Target.Write(AsyncLogEventInfo logEvent)
+2019-01-10 18:58:18.9472 Info Logger closing down...
+2019-01-10 18:58:18.9941 Info Closing old configuration.
+2019-01-10 18:58:19.0716 Info Logger has been closed down.
+2019-01-10 18:58:19.1466 Info Shutting down logging...
+2019-01-10 18:58:19.2121 Info Logger has been shut down.
